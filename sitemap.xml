@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Home Page -->
+  <url>
+    <loc>https://YOUR_GITHUB_PAGES_URL_HERE/</loc>
+    <lastmod>2026-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Keyword Lab -->
+  <url>
+    <loc>https://YOUR_GITHUB_PAGES_URL_HERE/pages/keyword-lab.html</loc>
+    <lastmod>2026-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Content Lab -->
+  <url>
+    <loc>https://YOUR_GITHUB_PAGES_URL_HERE/pages/content-lab.html</loc>
+    <lastmod>2026-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Technical Lab -->
+  <url>
+    <loc>https://YOUR_GITHUB_PAGES_URL_HERE/pages/technical-lab.html</loc>
+    <lastmod>2026-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
