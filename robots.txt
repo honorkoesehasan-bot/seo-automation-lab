@@ -1,0 +1,8 @@
+# robots.txt for SEO Automation Lab
+# Allows all search engine bots to crawl the entire site
+
+User-agent: *
+Allow: /
+
+# Sitemap location (REPLACE WITH YOUR ACTUAL GITHUB PAGES URL)
+Sitemap: https://YOUR_GITHUB_PAGES_URL_HERE/sitemap.xml
