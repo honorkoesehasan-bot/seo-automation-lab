@@ -1,0 +1,37 @@
+{
+  "pages": [
+    {
+      "title": "SEO Automation Lab - E-Commerce SEO Testing",
+      "url": "/",
+      "description": "Hauptseite des SEO Automation Lab - Lerne SEO-Basics für E-Commerce Automation mit n8n",
+      "keywords": ["SEO", "E-Commerce", "Automation", "n8n"],
+      "updated": "2026-01-16"
+    },
+    {
+      "title": "Keyword Lab - Keyword-Recherche Basics",
+      "url": "/pages/keyword-lab.html",
+      "description": "Keyword-Recherche für E-Commerce: Seed-Keywords, Search Intent, Prioritäten",
+      "keywords": ["Keywords", "Recherche", "Search Intent", "SEO Basics"],
+      "updated": "2026-01-16"
+    },
+    {
+      "title": "Content Lab - Content-Struktur für SEO",
+      "url": "/pages/content-lab.html",
+      "description": "Content-Optimierung: H1-H6 Hierarchie, FAQ, interne Links",
+      "keywords": ["Content", "On-Page SEO", "FAQ", "interne Links"],
+      "updated": "2026-01-16"
+    },
+    {
+      "title": "Technical Lab - Technical SEO Checkliste",
+      "url": "/pages/technical-lab.html",
+      "description": "Technical SEO: robots.txt, sitemap.xml, Schema.org, Page Speed",
+      "keywords": ["Technical SEO", "robots.txt", "sitemap", "Schema.org"],
+      "updated": "2026-01-16"
+    }
+  ],
+  "meta": {
+    "total_pages": 4,
+    "last_updated": "2026-01-16",
+    "purpose": "Page metadata for n8n workflows - track content updates"
+  }
+}
