@@ -5,4 +5,4 @@ User-agent: *
 Allow: /
 
 # Sitemap location (REPLACE WITH YOUR ACTUAL GITHUB PAGES URL)
-Sitemap: https://YOUR_GITHUB_PAGES_URL_HERE/sitemap.xml
+Sitemap: https://seo-lab.netlify.app/sitemap.xml
