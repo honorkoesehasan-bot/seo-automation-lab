@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>⚙️ Technical Lab – SEO Automation Lab</title>
+    <meta name="description" content="Technical SEO Checkliste: robots.txt, sitemap.xml, Schema.org">
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="../" class="logo">🔬 SEO Automation Lab</a>
+            <ul>
+                <li><a href="../">Home</a></li>
+                <li><a href="keyword-lab.html">Keyword Lab</a></li>
+                <li><a href="content-lab.html">Content Lab</a></li>
+                <li><a href="technical-lab.html" class="active">Technical Lab</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h1>⚙️ Technical Lab</h1>
+            <p class="subtitle">Technical SEO Checkliste für bessere Rankings</p>
+        </section>
+
+        <section>
+            <h2>Was ist Technical SEO?</h2>
+            <p>
+                Technical SEO umfasst <strong>technische Maßnahmen</strong>, die Suchmaschinen helfen, 
+                deine Seite zu <strong>crawlen</strong>, zu <strong>indexieren</strong> und richtig zu bewerten.
+            </p>
+        </section>
+
+        <section>
+            <h2>✅ Technical SEO Checkliste</h2>
+            
+            <h3>1. robots.txt</h3>
+            <p>Steuert, welche Bereiche Crawler besuchen dürfen.</p>
+            <pre><code>User-agent: *
+Allow: /
+Sitemap: https://deine-seite.de/sitemap.xml</code></pre>
+            <p>🔗 <a href="../robots.txt">Unsere robots.txt ansehen</a></p>
+
+            <h3>2. sitemap.xml</h3>
+            <p>Listet alle wichtigen URLs für Suchmaschinen auf.</p>
+            <p>🔗 <a href="../sitemap.xml">Unsere sitemap.xml ansehen</a></p>
+
+            <h3>3. Schema.org (Structured Data)</h3>
+            <p>Hilft Suchmaschinen, den Inhalt besser zu verstehen.</p>
+            <pre><code>{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Laufschuhe XYZ",
+  "offers": {
+    "@type": "Offer",
+    "price": "99.99",
+    "priceCurrency": "EUR"
+  }
+}</code></pre>
+
+            <h3>4. Page Speed</h3>
+            <p>Schnelle Ladezeiten sind ein Ranking-Faktor.</p>
+            <ul>
+                <li>✅ Bilder komprimieren (WebP)</li>
+                <li>✅ CSS/JS minifizieren</li>
+                <li>✅ CDN nutzen</li>
+            </ul>
+
+            <h3>5. Mobile-Friendly</h3>
+            <p>Google nutzt <strong>Mobile-First Indexing</strong>.</p>
+            <ul>
+                <li>✅ Responsive Design</li>
+                <li>✅ Keine Flash-Inhalte</li>
+                <li>✅ Große Klick-Elemente</li>
+            </ul>
+
+            <h3>6. HTTPS & Sicherheit</h3>
+            <p>SSL-Zertifikat ist Pflicht für gute Rankings.</p>
+        </section>
+
+        <section>
+            <h2>Tools zum Testen</h2>
+            <ul>
+                <li>🔗 <a href="https://search.google.com/search-console" target="_blank">Google Search Console</a></li>
+                <li>🔗 <a href="https://pagespeed.web.dev/" target="_blank">PageSpeed Insights</a></li>
+                <li>🔗 <a href="https://validator.schema.org/" target="_blank">Schema Markup Validator</a></li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Nächste Schritte</h2>
+            <ul>
+                <li>✅ <strong>Google Search Console</strong> einrichten & sitemap.xml einreichen</li>
+                <li>✅ <strong>Core Web Vitals</strong> optimieren (LCP, FID, CLS)</li>
+                <li>✅ <strong>Broken Links</strong> finden & fixen</li>
+                <li>✅ <strong>n8n-Workflow:</strong> Täglicher Check auf 404-Fehler</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>SEO Automation Lab | <a href="../">Zurück zur Hauptseite</a></p>
+    </footer>
+</body>
+</html>
