@@ -1,0 +1,29 @@
+{
+  "keywords": [
+    {"term": "Laufschuhe kaufen", "priority": "high", "intent": "transactional", "volume": "high"},
+    {"term": "Sneaker Damen", "priority": "high", "intent": "commercial", "volume": "high"},
+    {"term": "Wanderschuhe Herren", "priority": "high", "intent": "commercial", "volume": "medium"},
+    {"term": "Sportschuhe günstig", "priority": "medium", "intent": "transactional", "volume": "medium"},
+    {"term": "Nike Air Max", "priority": "high", "intent": "commercial", "volume": "high"},
+    {"term": "Adidas Ultraboost", "priority": "high", "intent": "commercial", "volume": "high"},
+    {"term": "Hallenschuhe Kinder", "priority": "medium", "intent": "commercial", "volume": "medium"},
+    {"term": "Fußballschuhe", "priority": "high", "intent": "commercial", "volume": "high"},
+    {"term": "Trekkingschuhe", "priority": "medium", "intent": "commercial", "volume": "medium"},
+    {"term": "Barfußschuhe", "priority": "medium", "intent": "informational", "volume": "medium"},
+    {"term": "Winterschuhe wasserdicht", "priority": "high", "intent": "commercial", "volume": "high"},
+    {"term": "Sandalen Sommer", "priority": "medium", "intent": "commercial", "volume": "high"},
+    {"term": "Stiefel Leder", "priority": "medium", "intent": "commercial", "volume": "medium"},
+    {"term": "Hausschuhe", "priority": "low", "intent": "commercial", "volume": "medium"},
+    {"term": "Sicherheitsschuhe", "priority": "medium", "intent": "commercial", "volume": "medium"},
+    {"term": "Tanzschuhe", "priority": "low", "intent": "commercial", "volume": "low"},
+    {"term": "Kletterschuhe", "priority": "low", "intent": "commercial", "volume": "low"},
+    {"term": "Golfschuhe", "priority": "low", "intent": "commercial", "volume": "low"},
+    {"term": "Reitschuhe", "priority": "low", "intent": "commercial", "volume": "low"},
+    {"term": "Badeschuhe", "priority": "low", "intent": "commercial", "volume": "low"}
+  ],
+  "meta": {
+    "updated": "2026-01-16",
+    "total_keywords": 20,
+    "purpose": "Seed keywords for n8n SEO automation workflows"
+  }
+}
